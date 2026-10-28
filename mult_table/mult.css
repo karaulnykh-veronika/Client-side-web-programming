@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+h1 { font-size: 22px; }
+.mult-table {
+    border-collapse: collapse;
+    background: #fff;
+}
+.mult-table td {
+    border: 1px solid #999;
+    padding: 6px 10px;
+    font-size: 13px;
+    text-align: center;
+}
+.mult-table td.header-cell {
+    background: #e0e0e0;
+    font-weight: bold;
+}
